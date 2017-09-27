@@ -1,0 +1,4 @@
+#Thu Sep 28 00:25:28 ICT 2017
+base.0=E\:\\baru andro\\TugasDua\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\baru andro\\TugasDua\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
